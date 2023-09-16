@@ -46,8 +46,8 @@ class Title extends Component<IProps> {
 				alignItems="center"
 			>
 				<Flex style={{ marginLeft: 8 }} flex="0 1 auto">
-					<span style={{ color: '#fff', fontSize: 24, fontWeight: 500 }}>React Design Editor</span>
-					<Tooltip title={i18next.t('action.go-github')} overlayStyle={{ fontSize: 16 }}>
+					<span style={{ color: '#fff', fontSize: 24, fontWeight: 500 }}>Booky  </span>
+					{/* <Tooltip title={i18next.t('action.go-github')} overlayStyle={{ fontSize: 16 }}>
 						<Button
 							className="rde-action-btn"
 							style={{
@@ -59,8 +59,8 @@ class Title extends Component<IProps> {
 						>
 							<Icon name="github" prefix="fab" size={1.5} />
 						</Button>
-					</Tooltip>
-					<Tooltip title={i18next.t('action.go-docs')} overlayStyle={{ fontSize: 16 }}>
+					</Tooltip> */}
+					{/* <Tooltip title={i18next.t('action.go-docs')} overlayStyle={{ fontSize: 16 }}>
 						<Button
 							className="rde-action-btn"
 							style={{
@@ -85,7 +85,7 @@ class Title extends Component<IProps> {
 						>
 							<Icon name="question" prefix="fas" size={1.5} />
 						</Button>
-					</Tooltip>
+					</Tooltip> */}
 				</Flex>
 				<Flex style={{ marginLeft: 88 }}>
 					<Menu

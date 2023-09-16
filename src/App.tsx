@@ -45,7 +45,7 @@ class App extends Component<any, IState> {
 					<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 					<meta
 						name="description"
-						content="React Design Editor has started to developed direct manipulation of editable design tools like Powerpoint, We've developed it with react.js, ant.design, fabric.js "
+						content="Booky  has started to developed and make book covers  "
 					/>
 					<link rel="manifest" href="./manifest.json" />
 					<link rel="shortcut icon" href="./favicon.ico" />
